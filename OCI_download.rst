@@ -1,6 +1,6 @@
 Deploying BIG-IP VE in Oracle Cloud Infrastructure
 ==================================================
-
+blah blahb lbha
 OCI currently requires a `Bring Your Own Image` and `Bring Your Own License` for deployments.
 
 To deploy BIG-IP VE manually in to OCI:
